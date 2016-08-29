@@ -1,0 +1,7 @@
+{
+  "require" : {
+    "facebook/php-sdk-v4" : "~5.0",
+    "whatsapp/chat-api": "^2.5",
+    "rapidwebltd/php-google-contacts-v3-api": "dev-master"
+  }
+}

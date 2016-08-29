@@ -1,0 +1,1 @@
+RewriteRule ^v2/([^/]*) v2/index.php?$1
